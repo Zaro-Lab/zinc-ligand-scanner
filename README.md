@@ -1,4 +1,8 @@
 # Zinc Ligand Scanner
+[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[![GitHub issues](https://img.shields.io/github/issues/Zaro-Lab/zinc-ligand-scanner.svg)](https://github.com/Zaro-Lab/zinc-ligand-scanner/issues/)
+[![PDB](https://img.shields.io/badge/PDB-API-blue)](https://search.rcsb.org/)
+
 Script to find PDB structures with Zinc, filter for human ones, and report ligands near the Zinc ions in an Excel file
 
 ![mermaid-diagram-2025-05-11-225715](https://github.com/user-attachments/assets/f8bb8452-3afc-4165-87a5-47a9bc053106)
